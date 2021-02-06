@@ -12,7 +12,7 @@ https://www.goingtointernet.com/2019/11/pacman-in-css.html
 <h2>Uma prévia do projeto</h2>
 
 <code>
-  ![image](https://user-images.githubusercontent.com/72364037/107131052-20482b00-68b2-11eb-81f3-3e90eb64502d.png)
+![image](https://user-images.githubusercontent.com/72364037/107131085-761cd300-68b2-11eb-9e8a-1d316090e10c.png)
 </code>
 
 <h1>Nosso último release, pode ser visto aqui</h1>
