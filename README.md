@@ -12,6 +12,5 @@ https://www.goingtointernet.com/2019/11/pacman-in-css.html
 <h2>Uma prévia do projeto</h2>
 
 <h1>Nosso último release, pode ser visto aqui</h1>
-<code>
 https://luisfernandomgrs.github.io/pac-man-game-animation/
-</code>
+
