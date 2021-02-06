@@ -9,8 +9,6 @@ PAC-MAN Game Character Animation
 https://www.goingtointernet.com/2019/11/pacman-in-css.html
 </code>
 
-<h2>Uma prévia do projeto</h2>
-
 <h1>Nosso último release, pode ser visto aqui</h1>
 https://luisfernandomgrs.github.io/pac-man-game-animation/
 
